@@ -18,7 +18,6 @@ I’m a computational designer and researcher working with 3D capture and XR.
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="28" alt="Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="28" alt="Illustrator" />
-  <img src="https://commons.wikimedia.org/wiki/File:Adobe_InDesign_CC_icon.svg" height="28" alt="InDesign" />
 </p>
 
 <p>
