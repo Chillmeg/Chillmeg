@@ -1,21 +1,18 @@
 # Hi, I’m Chilmeg d(￣ω￣)b
 
-I’m a computational designer and researcher working with 3D capture and XR. 
+I’m a computational designer and researcher working with 3D capture and XR.
 
-## A few things I’ve been making
-- 3D capture studies, photogrammetry and Gaussian splat workflows
-- PlaybackXR, a web based space for exploring 3D captures
-- Re-Membering, small physical triggers for spatial stories
+**A few things I’ve been making**
+* 3D capture studies, photogrammetry and Gaussian splat workflows
+* PlaybackXR, a web based space for exploring 3D captures
+* Re Membering, small physical triggers for spatial stories
 
-## Tools I use
-
-![Python](https://img.shields.io/badge/Python-okay-informational)
-![JavaScript](https://img.shields.io/badge/JavaScript-okay-informational)
-![React](https://img.shields.io/badge/React-okay-informational)
-![Node](https://img.shields.io/badge/Node-okay-informational)
-![Three.js](https://img.shields.io/badge/Three.js-okay-informational)
-![WebXR](https://img.shields.io/badge/WebXR-okay-informational)
-
-![Rhino](https://img.shields.io/badge/Rhino-okay-informational)
-![Grasshopper](https://img.shields.io/badge/Grasshopper-okay-informational)
-![Adobe](https://img.shields.io/badge/Adobe-okay-informational)
+**Tools I use**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="28" alt="Unreal Engine" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="28" alt="Unity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="28" alt="Blender" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="28" alt="Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-original.svg" height="28" alt="InDesign" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rhino/rhino-original.svg" height="28" alt="Rhino" />
+</p>
